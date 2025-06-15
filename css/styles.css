@@ -30,7 +30,7 @@ a {
 }
 
 .logo-light {
-    color: #FFFFFF;
+    color: #f4f4fd;;
 }
 
 .logo-dark:hover,
@@ -106,11 +106,7 @@ a {
 }
 
 .part {
-    background-color: white;
-    font-size: 16px;
-    line-height: 24px;
-    font-weight: 400;
-    letter-spacing: 0.02em;
+    background-color: #FFFFFF;
 }
 
 .part-name {
@@ -119,6 +115,13 @@ a {
     font-weight: 500;
     letter-spacing: 0.02em;
     color: #2E2F42;
+}
+
+.part-description {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    letter-spacing: 0.02em;
 }
 
 .values {
@@ -144,12 +147,6 @@ a {
     letter-spacing: 0.02em;
 }
 
-.logo-footer {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 21px; 
-    letter-spacing: 0.03em;
-    color: #f4f4fd;
-    text-transform: uppercase;
+.footer-description {
+    color: #F4F4FD;
 }
