@@ -95,21 +95,7 @@ a {
     background-color: #404BBF;
 }
 
-.values-name {
-    font-size: 20px;
-    color: #2E2F42;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-}
-
-.values-description {
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-}
-
-section h2 {
+.part-title {
     font-size: 36px;
     color: #2E2F42;
     font-weight: 700;
@@ -117,10 +103,6 @@ section h2 {
     line-height: 40px;
     text-align: center;
     text-transform: capitalize;
-}
-
-#team {
-    background-color: #F4F4FD;
 }
 
 .part {
@@ -138,6 +120,20 @@ section h2 {
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
+
+.values {
+    background-color: #FFFFFF;
+}
+
+
+#team {
+    background-color: #F4F4FD;
+}
+
+.portfolio {
+    background-color: #FFFFFF;
+}
+
 
 footer {
     background-color:#2E2F42;
