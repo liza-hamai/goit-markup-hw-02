@@ -135,7 +135,7 @@ a {
 }
 
 
-footer {
+.footer {
     background-color:#2E2F42;
     color: white;
     font-size: 16px;
@@ -150,6 +150,6 @@ footer {
     font-size: 18px;
     line-height: 21px; 
     letter-spacing: 0.03em;
-    color: white;
+    color: #f4f4fd;
     text-transform: uppercase;
 }
